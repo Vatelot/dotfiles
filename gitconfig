@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = balthazar.vatelot@hotmail.fr
+	name = Balthazar Vatelot
